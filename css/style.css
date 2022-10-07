@@ -1,0 +1,29 @@
+main, footer {
+    text-align: center;
+
+    width: 600px;
+    margin: 0 auto;
+}
+
+.heading {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-address {
+    font-style: 18px;
+    line-height: 28px;
+}
+
+.social-link {
+    text-decoration: none;
+}
+
+.social-link > svg {
+    fill: #bca5c3;
+
+    width: 32px;
+    height: 32px;
+}
